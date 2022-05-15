@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".HelpActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="70dp"
+        android:text="Si vous ne puissez pas s'authentifier avec votre login et votre mot de passe, Veuillez contactez votre Administration !!"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Back_btn"
+        android:text="BACK"
+        android:gravity="center"
+        android:backgroundTint="#e35c56"
+        android:layout_margin="20dp"
+        />
+
+</LinearLayout>

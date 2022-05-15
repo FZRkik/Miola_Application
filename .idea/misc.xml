@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/buttons_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/header_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_about.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_check.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_cne.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_date_naissance.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_list.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_myfeed.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_time.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/log_out.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/navigation.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/navigation_view_selected.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_acceuil.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_admin_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_contact.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_emploi.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_help.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_prof_register.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_profile_cordi.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_select_registration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_student_register.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/display_user_layout.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/header.xml" value="0.16" />
+        <entry key="app/src/main/res/menu/admin_menu.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_prof.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
